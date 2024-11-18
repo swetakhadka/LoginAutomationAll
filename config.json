@@ -1,0 +1,12 @@
+{
+    "siam99": {
+        "url": "https://www.siam99.com/",
+        "login_button_xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/a[1]",
+        "username_xpath": "//input[@id='nK7dDJpdOWE_8']",
+        "password_xpath": "//input[@id='nK7dDJpdOWE_9']",
+        "submit_button_xpath": "//button[@type='submit']",
+        "username": "your_username_here",
+        "password": "your_password_here"
+    }
+}
+
